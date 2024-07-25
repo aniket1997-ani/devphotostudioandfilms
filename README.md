@@ -1,2 +1,2 @@
-Click here for 
+Click here for Dashboard
 https://devphotostudioandfilms.netlify.app/
